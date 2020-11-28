@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Projects\ECS\ECS\ECS.h(17,42): warning C4305: 'initializing': truncation from 'int' to 'ComponentType'
+D:\Projects\ECS\ECS\ECS.h(17,38): warning C4309: 'initializing': truncation of constant value
+D:\Projects\ECS\ECS\Main.cpp(23,48): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\Projects\ECS\ECS\Main.cpp(37,48): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  ECS.vcxproj -> D:\Projects\ECS\Debug\ECS.exe
